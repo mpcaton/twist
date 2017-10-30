@@ -141,6 +141,7 @@ GEM
       mime-types
       mimemagic (~> 0.3.0)
     pg (0.18.4)
+    phantomjs (2.1.1.0)
     poltergeist (1.6.0)
       capybara (~> 2.1)
       cliver (~> 0.3.1)
@@ -270,6 +271,7 @@ DEPENDENCIES
   nokogiri
   paperclip
   pg
+  phantomjs
   poltergeist (= 1.6.0)
   pry
   pry-rails
@@ -287,4 +289,4 @@ RUBY VERSION
    ruby 2.3.3p222
 
 BUNDLED WITH
-   1.14.3
+   1.15.4
